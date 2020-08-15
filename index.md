@@ -1,0 +1,69 @@
+# m7mad
+project website
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        
+        body {
+            background-color:rgb(245, 233, 245);
+                    font-family: monospace;
+            font-size: 19px;
+            line-height: 1.5em;
+            text-align: center;
+        }
+            #Costa-Rica {
+                background-color:red;
+            
+            }
+            #Trinity-College{
+            
+                background-color:yellow;
+            }
+            #Apple-Inc{
+                background-color:rgb(5, 48, 242);
+            }
+            #Atlantis {
+                background-color:rgb(240, 31, 240);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        
+        <h2 id="Trinity-College">Trinity College</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trinity_College_-_Great_Court_02.jpg/1920px-Trinity_College_-_Great_Court_02.jpg"width="450">
+        
+        <p>Trinity College is a constituent college of the University of Cambridge in England. The college was founded in 1546 by King Henry VIII.<br> With around 600 undergraduates, 300 graduates, and over 180 fellows, it is the largest college in either of the Oxbridge universities by number of undergraduates. In terms of total student numbers, it is second only to Homerton College, Cambridge.[3]<br>
+
+Members of Trinity have won 34 Nobel Prizes[4] out of the 116 won by members of Cambridge University, the highest number of any college at either Oxford or Cambridge.<br> Five Fields Medals[5] in mathematics have been won by members of the college (of the seven awarded to members of British universities) and one Abel Prize has been won.
+        </p>
+        <h2 id="Costa-Rica"> Costa Rica</h2>
+        <p>
+        <em>Ujarrás historical</em></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg/1280px-Iglesia_Inmaculada_Concepcion_Ujarras.jpg"width="450">
+
+<p>
+The Ujarrás historical site in the Orosí Valley, Cartago province. The church was built between 1686 and 1693.
+</p>
+
+<h2 id="Apple-Inc">Apple Inc</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg"width="450">
+<p>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Tech technology companies, alongside Amazon, Google, Microsoft and Facebook.[8][9][10]<br>
+
+The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, the AirPods wireless earbuds and the HomePod smart speaker. Apple's software includes macOS, iOS, iPadOS, watchOS, and tvOS operating systems, the iTunes media player, the Safari web browser, the Shazam music identifier, and the iLife and iWork creativity and productivity suites, as well as professional applications like Final Cut Pro, Logic Pro, and Xcode. Its online services include the iTunes Store, the iOS App Store, Mac App Store, Apple Music, Apple TV+, iMessage, and iCloud. Other services include Apple Store, Genius Bar, AppleCare, Apple Pay, Apple Pay Cash, and Apple Card.</p>
+
+<h2 id="Atlantis"><strong>Atlantis</strong> The Palm, <em>Dubai</em></h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Atlantis%2C_The_Palm_Exterior_.jpg/1280px-Atlantis%2C_The_Palm_Exterior_.jpg" width="450"> 
+
+<p>Das Atlantis The Palm, Dubai ist ein Luxushotel &-resort auf der Palm Jumeirah in Dubai, Vereinigte Arabische Emirate. Das Atlantis The Palm war das erste Hotel der künstlich erbauten Palmeninsel und wurde im September 2008 eröffnet. Das Thema des Hotels ist die versunkene Stadt Atlantis, beinhaltet jedoch zahlreiche arabische Elemente.<br>
+___________________<br>
+Das Atlantis The Palm ist neben dem Atlantis Paradise Island auf den Bahamas das zweite Megaluxushotel von Sol Kerzner. Das Hotel befindet sich an der Spitze der Palm Jumeirah, einer der künstlich erschaffenen Palmeninseln Dubais. <br>Die Anlage auf dem nördlichen Wellenbrecher ist gut erreichbar durch einen sechsspurigen Unterwassertunnel sowie seit 2009 mit der Dubai Monorail über ihre aufgeständerte Schienenstrecke, die am Ende über das Wasser einschwebt.
+</p>
+  
+    </body>
+</html>
